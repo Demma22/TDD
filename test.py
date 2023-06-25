@@ -9,3 +9,6 @@ def test():
 
 def test():
     assert multiply(3,3) == 9
+
+def test():
+    assert multiply(4,4) == 16
