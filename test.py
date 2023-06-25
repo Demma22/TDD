@@ -5,4 +5,4 @@ def test():
     assert multiply (1, 1) == 1
 
 def test():
-    assert multiply(2,2) == 3
+    assert multiply(2,2) == 4
