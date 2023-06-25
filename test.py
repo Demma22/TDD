@@ -6,3 +6,6 @@ def test():
 
 def test():
     assert multiply(2,2) == 4
+
+def test():
+    assert multiply(3,3) == 9
