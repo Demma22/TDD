@@ -12,3 +12,6 @@ def test():
 
 def test():
     assert multiply(4,4) == 16
+
+def test():
+    assert multiply(23,45) == 23*45
