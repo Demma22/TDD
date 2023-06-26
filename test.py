@@ -1,5 +1,5 @@
-def multiply(x,y):
-    return x*y
+from multiply import multiply
+
 
 def test():
     assert multiply (1, 1) == 1
